@@ -1,0 +1,9 @@
+.Navbar {
+  margin-bottom: 20px;
+  height: 100px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  color: rgb(108, 110, 110);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
